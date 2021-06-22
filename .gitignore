@@ -1,0 +1,6 @@
+# Ignored folders
+.idea/
+__pycache__/
+venv/
+
+# Ignored files

@@ -1,3 +1,18 @@
 Flask==2.0.1
 requests==2.25.1
 flask-swagger==0.2.14
+# Following are used by above third party libraries
+certifi==2021.5.30
+chardet==4.0.0
+click==8.0.1
+colorama==0.4.4
+idna==2.10
+importlib-metadata==4.5.0
+itsdangerous==2.0.1
+Jinja2==3.0.1
+MarkupSafe==2.0.1
+PyYAML==5.4.1
+typing-extensions==3.10.0.0
+urllib3==1.26.5
+Werkzeug==2.0.1
+zipp==3.4.1
